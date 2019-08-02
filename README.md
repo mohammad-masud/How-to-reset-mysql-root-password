@@ -18,7 +18,7 @@ Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
 
 run:  mysql> use mysql;
 
-<a href="https://www.computerkeyboard.net">keyboards</a>Reading table information for  of table and column names
+<a href="https://www.computerkeyboard.net">keyboards</a>  Reading table information for  of table and column names
 You can turn off this feature to get a quicker startup with -A
 
 Database changed
